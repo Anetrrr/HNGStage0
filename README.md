@@ -21,7 +21,7 @@ This project was done using C#, ASP.NET framework.
 
 #Endpoint URL
  - The API can be accessed here: 
- - http://stagezero.runasp.net/swagger/index.html
+  -  http://stagezero.runasp.net/swagger/index.html
 
 ##Set up Instructions
  - The API is public and can be assessed by visiting the endpoint URL above.
