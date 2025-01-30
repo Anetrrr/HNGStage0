@@ -8,11 +8,11 @@ This is a simple web API project that tests your knowledge of creating web APIs.
 
 ##API Response format
  - The response format is JSON. Example below:
-{
-"email": "hng@gmail.com",
-"current-datetime": "2025-01-30T19:11:02.385901+01:00",
-"github-url": "https://github.com/hngexample/hngstage0"
-}
+  - {
+    "email": "hng@gmail.com",
+    "current-datetime": "2025-01-30T19:11:02.385901+01:00",
+     "github-url": "https://github.com/hngexample/hngstage0"
+ - }
 
 #Technology Stack
 This project was done using C#, ASP.NET framework. 
