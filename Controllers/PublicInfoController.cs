@@ -17,7 +17,7 @@ namespace HNGStage0.Controllers
             {
                 Email = "anetor.ataga@gmail.com",
                 CurrentDateTime = DateTime.Now,
-                GithubUrl = "www.github.com/anetrr/hngstage0",
+                GithubUrl = "www.github.com/anetrrr/HNGStage0",
 
             };
 
